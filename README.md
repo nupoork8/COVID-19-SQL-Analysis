@@ -7,20 +7,6 @@ This project analyzes global COVID-19 data using SQL to uncover patterns and ins
 ## Project Goal: 
 Build practical SQL skills while telling a data-driven story about COVID-19's impact globally and in India.
 
-## 👨‍💻 About This Project
-
-This is my first SQL project as part of my journey to become a data analyst. I chose to analyze COVID-19 data because of its relevance and the opportunity it provides to work with real-world, time-series data at scale.
-
-Through this project, I aimed to answer practical questions about the pandemic while building hands-on SQL skills that are essential for data analysis roles.
-
-**What I Learned:**
-- How to import and clean large datasets
-- Writing complex SQL queries for analysis
-- Using aggregate functions and GROUP BY effectively
-- Applying UNION to combine result sets
-- Telling a data-driven story through queries
-
-I'm excited to continue building my data analytics skills and welcome any feedback!
 
 ## 🎯 Key Questions Answered
 
